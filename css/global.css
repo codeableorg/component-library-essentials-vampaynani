@@ -1,0 +1,10 @@
+:root {
+  --button-color: #fff;
+  --button--color-transparent: #262626;
+  --primary-color: #118ab2;
+  --secondary-color: #888888;
+}
+
+* {
+  box-sizing: border-box;
+}
